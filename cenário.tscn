@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://21661841e9130345d9272093762072fc07d323d3.jpg" type="Texture" id=1]
+
+[node name="Cenário" type="Node"]
+
+[node name="21661841E9130345D9272093762072Fc07D323D3" type="Sprite" parent="."]
+position = Vector2( 509, 294 )
+scale = Vector2( 1.56571, 1.595 )
+texture = ExtResource( 1 )
